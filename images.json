@@ -1,4 +1,13 @@
 {
+       "ads_status": "Enable",
+    "ad_network_type": "google",
+    "google_banner_id": "ca-app-pub-1479249924308137/7218356481",
+    "google_interstitial_id": "ca-app-pub-1479249924308137/4682702808",
+    "google_rewarded_id": "ca-app-pub-1479249924308137/9928280305",
+    "google_native_id": "ca-app-pub-1479249924308137/5520041672",
+    "google_app_open_id": "ca-app-pub-1479249924308137/2056539462",
+    "fb_banner_id": "YOUR_FB_ID",
+    "unity_game_id": "6139961",
     "easy": [],
     "hard": [],
     "number": [
