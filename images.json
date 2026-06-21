@@ -1,0 +1,31 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "vintagecoloring",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n2.png"
+        },
+        {
+            "bgImageName": "vintagecoloring",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n4.png"
+        },
+        {
+            "bgImageName": "vintagecoloring",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n6.png"
+        },
+        {
+            "bgImageName": "vintagecoloring",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n8.png"
+        },
+        {
+            "bgImageName": "vintagecoloring",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/vintagecoloring/refs/heads/main/n10.png"
+        }
+    ]
+}
